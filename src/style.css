@@ -1,0 +1,22 @@
+#content-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+#bottom-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+#menu-img {
+    width: 60%;
+}
+
+#contact-list {
+    list-style: none;
+    padding-left: 0;
+}
